@@ -8,17 +8,17 @@ This is a CPT113 Group Assignment (Hackathon II)
 
 # Description 
 ## Medina Legend 🎮
-"Medina League" is a C++ text-based, adventure-fantasy multiplayer game that our group 9 created! The game sets in a fantasy world where two players with different roles (Player 1 & Player 2) must cooperate together to fight the darkness by beating up multiple enemies with different attributes. The player will need to accumulate coins by beating low-level monsters and using them to buy skills in the shop. This game is a combination of action-packed and puzzle experiences to guide the players through the journey of defeating the main boss.
+"Medina League" is a C++ text-based, adventure-fantasy multiplayer game that our group 9 created! The game sets in a fantasy world where two players with different roles (Player 1 & Player 2) must cooperate together to fight the darkness by beating up multiple enemies with different attributes. The player will need to accumulate coins by beating low-level monsters and using them to buy skills in the shop. This game is a combination of action-packed to guide the players through the journey of defeating the main boss.
 
 # Features 🧰
  - It is a multiplayer (2-player) game
- - It has 5 stages with a different enemy
- - **Stage 1:** Kill the enemies (Action)
- - **Stage 2:** Find the Exit (Adventure)
- - **Stage 3:** Problem Solving & defeat an enemy (Action & Puzzle)
- - **Stage 4:** Quiz (Question)
- - **Stage 5 (Final):** Kill the game Boss (Action)
- - 
+ - It has 5 stages with a different enemy (linked list)
+ -  Load and save game 
+ - **Stage 1:** Minion (low-tier monster)
+ - **Stage 2:** Find the Exit from the witch
+ - **Stage 3:** The wizard 
+ - **Stage 4:** The Guardian
+ - **Stage 5 (Final):** Defeat the final bos 
  
 # Playing the game 🎲
 Upon starting the game, player 1 will be assigned to the role "Fighter" with a skill of physical damage and player 2 will be assigned to the role "Mage" with a skill of magical damage. These roles will affect the gameplay, as different levels and challenges may become hard or easy based on the character's strengths and weaknesses.
