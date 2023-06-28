@@ -4,7 +4,7 @@ This is a CPT113 Group Assignment (Hackathon II)
 # Group Members (Contributors) 🏠
  - LUQMANUL HAKIM BIN AFIZAR (163550)
  - KHALIL AHMAD BIN ZAINALABIDIN (164416)
- -MAHDIL ASHRONIE BIN MUHAMAD MURTADZA (163966)
+ - MAHDIL ASHRONIE BIN MUHAMAD MURTADZA (163966)
 
 # Description 
 ## Medina League 🎮
