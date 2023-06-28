@@ -1,0 +1,2 @@
+g++ main.cpp Player.h -o main
+./main
