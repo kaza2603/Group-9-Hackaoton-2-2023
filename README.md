@@ -8,31 +8,25 @@ This is a CPT113 Group Assignment (Hackathon II)
 
 # Description 
 ## Medina Legend 🎮
-"Medina League" is a C++ text-based, adventure-fantasy multiplayer game that our group 9 created! The game sets in a fantasy world where two players with different roles (Player 1 & Player 2) must cooperate together to fight the darkness by beating up multiple enemies with different attributes. The player will need to accumulate coins by beating low-level monsters and using them to buy skills in the shop. This game is a combination of action-packed to guide the players through the journey of defeating the main boss.
+"Medina Legend" is a C++ text-based, adventure-fantasy multiplayer game that our group 9 created! The game sets in a fantasy world where two players with different roles (Player 1 & Player 2) must cooperate together to fight the darkness by beating up multiple enemies with different attributes. The player will need to accumulate coins by beating low-level monsters and using them to buy skills in the shop. This game is a combination of action-packed to guide the players through the journey of defeating the main boss.
 
 # Features 🧰
  - It is a multiplayer (2-player) game
  - It has 5 stages with a different enemy (linked list)
- -  Load and save game 
- - **Stage 1:** Minion (low-tier monster)
- - **Stage 2:** Find the Exit from the witch
- - **Stage 3:** The wizard 
- - **Stage 4:** The Guardian
- - **Stage 5 (Final):** Defeat the final bos 
+ - Load and save the game 
+ - Class and object for data encapsulation
  
 # Playing the game 🎲
 Upon starting the game, player 1 will be assigned to the role "Fighter" with a skill of physical damage and player 2 will be assigned to the role "Mage" with a skill of magical damage. These roles will affect the gameplay, as different levels and challenges may become hard or easy based on the character's strengths and weaknesses.
 
-After every stage is cleared, you will be given the option to buy equipment in the shop. Use the chance to increase your skill to help through this adventure.
+After every stage is cleared, you will be given the option to buy equipment and food in the shop. Use the chance to increase your skill to help through this adventure.
 
-
-- **Stage 1:** Use commands number 1 or 2 to defeat the enemy minion and collect gold.
-- **Stage 2:** Both players will take a turn to guess the correct room that has the key to exit. If either one player is guessing the room that contains the witch, the player will get attacked.
-- **Stage 3:** The wizard will choose randomly from either two players and asked a puzzle. If the player failed to answer, it will get attacked. To clear this stage, both players must defeat the wizard.
-- **Stage 4:** Right before entering the final stage, Players need to face the Guardian and answer four formidable questions that will rely on the player's problem-solving skills.
-- **Stage 5:** Defeat the final boss with your accumulation of skill and experience.
-
-
+ - **Stage 1:** Minion (low-tier monster)
+ - **Stage 2:** Find the Exit from the witch
+ - **Stage 3:** The wizard 
+ - **Stage 4:** The Guardian
+ - **Stage 5 (Final):** Defeat the final bos
+   
 
 ### Special Tips: 💡
 **Read the Introduction:** Familiarize yourself with the game's introductory text, which sets the stage for your adventure and provides essential background information about the game.
@@ -65,12 +59,12 @@ Save Your Progress: Use the game's save function to record your progress and con
 We rely heavily on a linked list for Pathfinding and Location Sequencing. 
 In this game where the player navigates through different locations, a linked list is used to represent the sequence of locations visited. Each node in the list corresponds to a specific location and contains information about it, such as the stage name, description, player,  enemy  and connections to neighbouring locations. As the players move from one location to another, nodes are added to the linked list, creating a path that can be traversed backwards or forwards, allowing for easy movement tracking and exploration. 
 
-# Screenshot Of Our Game : 📷
+# Screenshot Of Our Game: 📷
 Here are the screenshots of the game: 
 
-# Link to a game demo video : 🎥
+# Link to a game demo video: 🎥
 
-You can view the live stream here: https://www.youtube.com/watch?v=iLHAKXQBOoA
+You can view the live stream here: [https://www.youtube.com/watch?v=iLHAKXQBOoA](https://youtu.be/QdTOxXxvVlw)]
 
 # How to run the game : ⚙️
 Run this command in the terminal:
