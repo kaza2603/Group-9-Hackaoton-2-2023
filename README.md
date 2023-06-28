@@ -24,12 +24,13 @@ Upon starting the game, player 1 will be assigned to the role "Fighter" with a s
 
 After every stage is cleared, you will be given the option to buy equipment in the shop. Use the chance to increase your skill to help through this adventure.
 
-- 
+
 - **Stage 1:** Use commands number 1 or 2 to defeat the enemy minion and collect gold.
 - **Stage 2:** Both players will take a turn to guess the correct room that has the key to exit. If either one player is guessing the room that contains the witch, the player will get attacked.
 - **Stage 3:** The wizard will choose randomly from either two players and asked a puzzle. If the player failed to answer, it will get attacked. To clear this stage, both players must defeat the wizard.
--**Stage 4:** Right before entering the final stage, Players need to face the Guardian and answer four formidable questions that will rely on the player's problem-solving skills.
+- **Stage 4:** Right before entering the final stage, Players need to face the Guardian and answer four formidable questions that will rely on the player's problem-solving skills.
 -**Stage 5:** Defeat the final boss with your accumulation of skill and experience.
+
 
 ### Special Tips: 💡
 **Read the Introduction:** Familiarize yourself with the game's introductory text, which sets the stage for your adventure and provides essential background information about the game.
