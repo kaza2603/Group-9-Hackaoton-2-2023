@@ -1,7 +1,7 @@
-# Group-9-Hackaoton-2-2023
-This is a CPT113 Group Assignment (Hackathon II) 💻
+# Group-9-Hackaoton-2-2023 :💻
+This is a CPT113 Group Assignment (Hackathon II) 
 
-# Group Members 🏠
+# Group Members (Contributors) 🏠
  - LUQMANUL HAKIM BIN AFIZAR (163550)
  - KHALIL AHMAD BIN ZAINALABIDIN (164416)
  -MAHDIL ASHRONIE BIN MUHAMAD MURTADZA (163966)
