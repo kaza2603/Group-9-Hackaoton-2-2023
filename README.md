@@ -60,7 +60,7 @@ We rely heavily on a linked list for Pathfinding and Location Sequencing.
 In this game where the player navigates through different locations, a linked list is used to represent the sequence of locations visited. Each node in the list corresponds to a specific location and contains information about it, such as the stage name, description, player,  enemy  and connections to neighbouring locations. As the players move from one location to another, nodes are added to the linked list, creating a path that can be traversed backwards or forwards, allowing for easy movement tracking and exploration. 
 
 # Screenshot Of Our Game: 📷
-Here are the screenshots of the game: 
+Here are the screenshots of the game: [https://imgur.com/a/PMDZuk9]
 
 # Link to a game demo video: 🎥
 
@@ -70,3 +70,6 @@ You can view the live stream here: [https://www.youtube.com/watch?v=iLHAKXQBOoA]
 Run this command in the terminal:
 `g++ main.cpp Player.h -o main`
 `./main`
+
+# Link to colab notebook in case of failure to compile the code : ⚙️
+[https://colab.research.google.com/drive/1JKHCmDn2qeV9vQEuml_pLuXew3FLTejs#scrollTo=g59jK-lAFsPC&uniqifier=3]
