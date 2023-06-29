@@ -54,7 +54,7 @@ Save Your Progress: Use the game's save function to record your progress and con
 
 6. **Modularity:**  Similar to encapsulation, we  divide into manageable modules and classes allowing the game's codebase to be easier maintenance, scalability, and code reusability.
 
-# How linked lists play an important role in your game ⛓️
+# How linked lists play an important role in our game ⛓️
 
 We rely heavily on a linked list for Pathfinding and Location Sequencing. 
 In this game where the player navigates through different locations, a linked list is used to represent the sequence of locations visited. Each node in the list corresponds to a specific location and contains information about it, such as the stage name, description, player,  enemy  and connections to neighbouring locations. As the players move from one location to another, nodes are added to the linked list, creating a path that can be traversed backwards or forwards, allowing for easy movement tracking and exploration. 
@@ -64,7 +64,7 @@ Here are the screenshots of the game: [https://imgur.com/a/PMDZuk9]
 
 # Link to a game demo video: 🎥
 
-You can view the live stream here: [https://www.youtube.com/watch?v=iLHAKXQBOoA](https://youtu.be/QdTOxXxvVlw)]
+You can view the live stream here: [https://youtu.be/XfCvu3z82II]
 
 # How to run the game : ⚙️
 Run this command in the terminal:
