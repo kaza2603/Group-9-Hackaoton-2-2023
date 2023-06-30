@@ -68,7 +68,7 @@ You can view the live stream here: [https://youtu.be/XfCvu3z82II]
 
 # How to run the game : ⚙️
 Run this command in the terminal:
-`g++ main.cpp Player.h -o main`
+`g++ Main.cpp Player.h -o main`
 `./main`
 
 # Link to colab notebook in case of failure to compile the code : ⚙️
